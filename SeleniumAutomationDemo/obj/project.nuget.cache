@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PhlhWuKNYEY=",
+  "dgSpecHash": "p3js4T+mVfE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Windows 10\\Documents\\MeusRepositoriosGit\\testeCsharp\\SeleniumAutomationDemo\\SeleniumAutomationDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\selenium.support\\4.42.0\\selenium.support.4.42.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\selenium.webdriver\\4.42.0\\selenium.webdriver.4.42.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\selenium.webdriver.chromedriver\\147.0.7727.5600\\selenium.webdriver.chromedriver.147.0.7727.5600.nupkg.sha512"
+  ],
   "logs": []
 }
